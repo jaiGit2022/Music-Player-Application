@@ -1,4 +1,4 @@
-# MusicPlayerApplication
+# Music-Player-Application
 A music player application in python
 
 Run `pip install requirments.txt`
